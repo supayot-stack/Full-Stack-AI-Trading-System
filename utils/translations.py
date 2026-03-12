@@ -8,7 +8,7 @@ TRANSLATIONS = {
         # App
         "app_title": "FULL-STACK AI TRADING SYSTEM",
         "app_subtitle": "ระบบวิเคราะห์การลงทุนอัจฉริยะ",
-        "phase_badge": "⚡ เฟส 1 — โหมดเรียนรู้ (ปลอดภัย 100%)",
+        "phase_badge": "⚡ เฟส 2 — ข้อมูลจริง LIVE",
         "last_update": "อัพเดทล่าสุด",
         "disclaimer": "⚠️ เพื่อการศึกษาเท่านั้น — ไม่ใช่คำแนะนำการลงทุน",
 
@@ -75,7 +75,7 @@ TRANSLATIONS = {
         # App
         "app_title": "FULL-STACK AI TRADING SYSTEM",
         "app_subtitle": "Intelligent Investment Analysis System",
-        "phase_badge": "⚡ Phase 1 — Learning Mode (100% Safe)",
+        "phase_badge": "⚡ Phase 2 — Live Data Mode",
         "last_update": "Last Updated",
         "disclaimer": "⚠️ For educational purposes only — Not financial advice",
 
