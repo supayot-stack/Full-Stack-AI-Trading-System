@@ -29,7 +29,7 @@ st.set_page_config(
     page_title="Full-Stack AI Trading System",
     page_icon="🛡️",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="expanded",  # always start expanded
 )
 
 # ── INJECT CSS ───────────────────────────────────────────────
@@ -54,6 +54,8 @@ timestamp = datetime.now().strftime("%d %b %Y  %H:%M:%S")
 
 # ── HEADER ───────────────────────────────────────────────────
 st.markdown(header_html(t, lang, timestamp), unsafe_allow_html=True)
+
+
 
 # ── SIDEBAR ──────────────────────────────────────────────────
 with st.sidebar:
