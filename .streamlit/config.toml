@@ -16,13 +16,3 @@ gatherUsageStats = false
 [client]
 showSidebarNavigation = true
 toolbarMode = "minimal"
-```
-กด **Commit** ✅
-
----
-
-**② ตรวจสอบว่า `components/ui_styles.py` ใน GitHub เป็นเวอร์ชันล่าสุดไหม**
-```
-GitHub → components → ui_styles.py
-ดูว่ามีคำว่า "onclick" อยู่ไหม
-ถ้าไม่มี → ต้อง update ไฟล์นี้ด้วย
